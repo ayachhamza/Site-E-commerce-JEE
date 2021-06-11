@@ -30,7 +30,6 @@
     </div>
     <!-- End Search Popap -->
 
-
     <!-- Start side Cart Panel -->
     <div class="shopping__cart">
         <div class="shopping__cart__inner">
@@ -45,7 +44,7 @@
                         </a>
                     </div>
                     <div class="shp__pro__details">
-                        <h2><a href="product-details.html">BO&Play Wireless Speaker</a></h2>
+                        <h2><a href="product-details.jsp">BO&Play Wireless Speaker</a></h2>
                         <span class="quantity">QTY: 1</span>
                         <span class="shp__price">$105.00</span>
                     </div>
@@ -60,7 +59,7 @@
                         </a>
                     </div>
                     <div class="shp__pro__details">
-                        <h2><a href="product-details.html">Brone Candle</a></h2>
+                        <h2><a href="product-details.jsp">Brone Candle</a></h2>
                         <span class="quantity">QTY: 1</span>
                         <span class="shp__price">$25.00</span>
                     </div>
@@ -74,16 +73,16 @@
                 <li class="total__price">$130.00</li>
             </ul>
             <ul class="shopping__btn">
-                <li><a href="cart.html">View Cart</a></li>
-                <li class="shp__checkout"><a href="checkout.html">Checkout</a></li>
+                <li><a href="cart.jsp">View Cart</a></li>
+                <li class="shp__checkout"><a href="checkout.jsp">Checkout</a></li>
             </ul>
         </div>
     </div>
     <!-- End Cart Panel -->
 
-
 </div>
 <!-- End Offset Wrapper -->
+
 <!-- Start Slider Area -->
 <div class="slider__container slider--one bg__cat--3">
     <div class="slide__container slider__activation__wrap owl-carousel">
@@ -97,7 +96,7 @@
                                 <h2>collection 2018</h2>
                                 <h1>NICE CHAIR</h1>
                                 <div class="cr__btn">
-                                    <a href="cart.html">Shop Now</a>
+                                    <a href="cart.jsp">Shop Now</a>
                                 </div>
                             </div>
                         </div>
@@ -121,7 +120,7 @@
                                 <h2>collection 2018</h2>
                                 <h1>NICE CHAIR</h1>
                                 <div class="cr__btn">
-                                    <a href="cart.html">Shop Now</a>
+                                    <a href="cart.jsp">Shop Now</a>
                                 </div>
                             </div>
                         </div>
@@ -157,21 +156,21 @@
                     <div class="col-md-4 col-lg-3 col-sm-4 col-xs-12">
                         <div class="category">
                             <div class="ht__cat__thumb">
-                                <a href="product-details.html">
+                                <a href="product-details.jsp">
                                     <img src="images/product/1.jpg" alt="product images">
                                 </a>
                             </div>
                             <div class="fr__hover__info">
                                 <ul class="product__action">
-                                    <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
+                                    <li><a href="wishlist.jsp"><i class="icon-heart icons"></i></a></li>
 
-                                    <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
+                                    <li><a href="cart.jsp"><i class="icon-handbag icons"></i></a></li>
 
                                     <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
                                 </ul>
                             </div>
                             <div class="fr__product__inner">
-                                <h4><a href="product-details.html">Largest Water Pot</a></h4>
+                                <h4><a href="product-details.jsp">Largest Water Pot</a></h4>
                                 <ul class="fr__pro__prize">
                                     <li class="old__prize">$30.3</li>
                                     <li>$25.9</li>
@@ -184,21 +183,21 @@
                     <div class="col-md-4 col-lg-3 col-sm-4 col-xs-12">
                         <div class="category">
                             <div class="ht__cat__thumb">
-                                <a href="product-details.html">
+                                <a href="product-details.jsp">
                                     <img src="images/product/2.jpg" alt="product images">
                                 </a>
                             </div>
                             <div class="fr__hover__info">
                                 <ul class="product__action">
-                                    <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
+                                    <li><a href="wishlist.jsp"><i class="icon-heart icons"></i></a></li>
 
-                                    <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
+                                    <li><a href="cart.jsp"><i class="icon-handbag icons"></i></a></li>
 
                                     <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
                                 </ul>
                             </div>
                             <div class="fr__product__inner">
-                                <h4><a href="product-details.html">nemo enim ipsam</a></h4>
+                                <h4><a href="product-details.jsp">nemo enim ipsam</a></h4>
                                 <ul class="fr__pro__prize">
                                     <li class="old__prize">$30.3</li>
                                     <li>$25.9</li>
@@ -211,21 +210,21 @@
                     <div class="col-md-4 col-lg-3 col-sm-4 col-xs-12">
                         <div class="category">
                             <div class="ht__cat__thumb">
-                                <a href="product-details.html">
+                                <a href="product-details.jsp">
                                     <img src="images/product/3.jpg" alt="product images">
                                 </a>
                             </div>
                             <div class="fr__hover__info">
                                 <ul class="product__action">
-                                    <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
+                                    <li><a href="wishlist.jsp"><i class="icon-heart icons"></i></a></li>
 
-                                    <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
+                                    <li><a href="cart.jsp"><i class="icon-handbag icons"></i></a></li>
 
                                     <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
                                 </ul>
                             </div>
                             <div class="fr__product__inner">
-                                <h4><a href="product-details.html">Chair collection</a></h4>
+                                <h4><a href="product-details.jsp">Chair collection</a></h4>
                                 <ul class="fr__pro__prize">
                                     <li class="old__prize">$30.3</li>
                                     <li>$25.9</li>
@@ -238,21 +237,21 @@
                     <div class="col-md-4 col-lg-3 col-sm-4 col-xs-12">
                         <div class="category">
                             <div class="ht__cat__thumb">
-                                <a href="product-details.html">
+                                <a href="product-details.jsp">
                                     <img src="images/product/4.jpg" alt="product images">
                                 </a>
                             </div>
                             <div class="fr__hover__info">
                                 <ul class="product__action">
-                                    <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
+                                    <li><a href="wishlist.jsp"><i class="icon-heart icons"></i></a></li>
 
-                                    <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
+                                    <li><a href="cart.jsp"><i class="icon-handbag icons"></i></a></li>
 
                                     <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
                                 </ul>
                             </div>
                             <div class="fr__product__inner">
-                                <h4><a href="product-details.html">dummy Product name</a></h4>
+                                <h4><a href="product-details.jsp">dummy Product name</a></h4>
                                 <ul class="fr__pro__prize">
                                     <li class="old__prize">$30.3</li>
                                     <li>$25.9</li>
@@ -265,21 +264,21 @@
                     <div class="col-md-4 col-lg-3 col-sm-4 col-xs-12">
                         <div class="category">
                             <div class="ht__cat__thumb">
-                                <a href="product-details.html">
+                                <a href="product-details.jsp">
                                     <img src="images/product/5.jpg" alt="product images">
                                 </a>
                             </div>
                             <div class="fr__hover__info">
                                 <ul class="product__action">
-                                    <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
+                                    <li><a href="wishlist.jsp"><i class="icon-heart icons"></i></a></li>
 
-                                    <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
+                                    <li><a href="cart.jsp"><i class="icon-handbag icons"></i></a></li>
 
                                     <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
                                 </ul>
                             </div>
                             <div class="fr__product__inner">
-                                <h4><a href="product-details.html">donec ac tempus nrb</a></h4>
+                                <h4><a href="product-details.jsp">donec ac tempus nrb</a></h4>
                                 <ul class="fr__pro__prize">
                                     <li class="old__prize">$30.3</li>
                                     <li>$25.9</li>
@@ -292,21 +291,21 @@
                     <div class="col-md-4 col-lg-3 col-sm-4 col-xs-12">
                         <div class="category">
                             <div class="ht__cat__thumb">
-                                <a href="product-details.html">
+                                <a href="product-details.jsp">
                                     <img src="images/product/6.jpg" alt="product images">
                                 </a>
                             </div>
                             <div class="fr__hover__info">
                                 <ul class="product__action">
-                                    <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
+                                    <li><a href="wishlist.jsp"><i class="icon-heart icons"></i></a></li>
 
-                                    <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
+                                    <li><a href="cart.jsp"><i class="icon-handbag icons"></i></a></li>
 
                                     <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
                                 </ul>
                             </div>
                             <div class="fr__product__inner">
-                                <h4><a href="product-details.html">Product Title Here </a></h4>
+                                <h4><a href="product-details.jsp">Product Title Here </a></h4>
                                 <ul class="fr__pro__prize">
                                     <li class="old__prize">$30.3</li>
                                     <li>$25.9</li>
@@ -319,21 +318,21 @@
                     <div class="col-md-4 col-lg-3 col-sm-4 col-xs-12">
                         <div class="category">
                             <div class="ht__cat__thumb">
-                                <a href="product-details.html">
+                                <a href="product-details.jsp">
                                     <img src="images/product/7.jpg" alt="product images">
                                 </a>
                             </div>
                             <div class="fr__hover__info">
                                 <ul class="product__action">
-                                    <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
+                                    <li><a href="wishlist.jsp"><i class="icon-heart icons"></i></a></li>
 
-                                    <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
+                                    <li><a href="cart.jsp"><i class="icon-handbag icons"></i></a></li>
 
                                     <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
                                 </ul>
                             </div>
                             <div class="fr__product__inner">
-                                <h4><a href="product-details.html">Product Title Here </a></h4>
+                                <h4><a href="product-details.jsp">Product Title Here </a></h4>
                                 <ul class="fr__pro__prize">
                                     <li class="old__prize">$30.3</li>
                                     <li>$25.9</li>
@@ -346,21 +345,21 @@
                     <div class="col-md-4 col-lg-3 col-sm-4 col-xs-12">
                         <div class="category">
                             <div class="ht__cat__thumb">
-                                <a href="product-details.html">
+                                <a href="product-details.jsp">
                                     <img src="images/product/8.jpg" alt="product images">
                                 </a>
                             </div>
                             <div class="fr__hover__info">
                                 <ul class="product__action">
-                                    <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
+                                    <li><a href="wishlist.jsp"><i class="icon-heart icons"></i></a></li>
 
-                                    <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
+                                    <li><a href="cart.jsp"><i class="icon-handbag icons"></i></a></li>
 
                                     <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
                                 </ul>
                             </div>
                             <div class="fr__product__inner">
-                                <h4><a href="product-details.html">Product Title Here </a></h4>
+                                <h4><a href="product-details.jsp">Product Title Here </a></h4>
                                 <ul class="fr__pro__prize">
                                     <li class="old__prize">$30.3</li>
                                     <li>$25.9</li>
@@ -375,6 +374,7 @@
     </div>
 </section>
 <!-- End Category Area -->
+
 <!-- Start Product Area -->
 <section class="ftr__product__area ptb--100">
     <div class="container">
@@ -392,21 +392,21 @@
                 <div class="col-md-4 col-lg-3 col-sm-4 col-xs-12">
                     <div class="category">
                         <div class="ht__cat__thumb">
-                            <a href="product-details.html">
+                            <a href="product-details.jsp">
                                 <img src="images/product/9.jpg" alt="product images">
                             </a>
                         </div>
                         <div class="fr__hover__info">
                             <ul class="product__action">
-                                <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
+                                <li><a href="wishlist.jsp"><i class="icon-heart icons"></i></a></li>
 
-                                <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
+                                <li><a href="cart.jsp"><i class="icon-handbag icons"></i></a></li>
 
                                 <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
                             </ul>
                         </div>
                         <div class="fr__product__inner">
-                            <h4><a href="product-details.html">Special Wood Basket</a></h4>
+                            <h4><a href="product-details.jsp">Special Wood Basket</a></h4>
                             <ul class="fr__pro__prize">
                                 <li class="old__prize">$30.3</li>
                                 <li>$25.9</li>
@@ -419,21 +419,21 @@
                 <div class="col-md-4 col-lg-3 col-sm-4 col-xs-12">
                     <div class="category">
                         <div class="ht__cat__thumb">
-                            <a href="product-details.html">
+                            <a href="product-details.jsp">
                                 <img src="images/product/10.jpg" alt="product images">
                             </a>
                         </div>
                         <div class="fr__hover__info">
                             <ul class="product__action">
-                                <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
+                                <li><a href="wishlist.jsp"><i class="icon-heart icons"></i></a></li>
 
-                                <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
+                                <li><a href="cart.jsp"><i class="icon-handbag icons"></i></a></li>
 
                                 <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
                             </ul>
                         </div>
                         <div class="fr__product__inner">
-                            <h4><a href="product-details.html">voluptatem accusantium</a></h4>
+                            <h4><a href="product-details.jsp">voluptatem accusantium</a></h4>
                             <ul class="fr__pro__prize">
                                 <li class="old__prize">$30.3</li>
                                 <li>$25.9</li>
@@ -446,21 +446,21 @@
                 <div class="col-md-4 col-lg-3 col-sm-4 col-xs-12">
                     <div class="category">
                         <div class="ht__cat__thumb">
-                            <a href="product-details.html">
+                            <a href="product-details.jsp">
                                 <img src="images/product/11.jpg" alt="product images">
                             </a>
                         </div>
                         <div class="fr__hover__info">
                             <ul class="product__action">
-                                <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
+                                <li><a href="wishlist.jsp"><i class="icon-heart icons"></i></a></li>
 
-                                <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
+                                <li><a href="cart.jsp"><i class="icon-handbag icons"></i></a></li>
 
                                 <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
                             </ul>
                         </div>
                         <div class="fr__product__inner">
-                            <h4><a href="product-details.html">Product Dummy Name</a></h4>
+                            <h4><a href="product-details.jsp">Product Dummy Name</a></h4>
                             <ul class="fr__pro__prize">
                                 <li class="old__prize">$30.3</li>
                                 <li>$25.9</li>
@@ -473,21 +473,21 @@
                 <div class="col-md-4 col-lg-3 col-sm-4 col-xs-12">
                     <div class="category">
                         <div class="ht__cat__thumb">
-                            <a href="product-details.html">
+                            <a href="product-details.jsp">
                                 <img src="images/product/12.jpg" alt="product images">
                             </a>
                         </div>
                         <div class="fr__hover__info">
                             <ul class="product__action">
-                                <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
+                                <li><a href="wishlist.jsp"><i class="icon-heart icons"></i></a></li>
 
-                                <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
+                                <li><a href="cart.jsp"><i class="icon-handbag icons"></i></a></li>
 
                                 <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
                             </ul>
                         </div>
                         <div class="fr__product__inner">
-                            <h4><a href="product-details.html">Product Title Here </a></h4>
+                            <h4><a href="product-details.jsp">Product Title Here </a></h4>
                             <ul class="fr__pro__prize">
                                 <li class="old__prize">$30.3</li>
                                 <li>$25.9</li>
