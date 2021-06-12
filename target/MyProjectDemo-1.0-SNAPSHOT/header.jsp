@@ -53,38 +53,38 @@
                         <div class="menumenu__container clearfix">
                             <div class="col-lg-2 col-md-2 col-sm-3 col-xs-5">
                                 <div class="logo">
-                                    <a href="index.html"><img src="images/logo/4.png" alt="logo images"></a>
+                                    <a href="index.jsp"><img src="images/logo/4.png" alt="logo images"></a>
                                 </div>
                             </div>
                             <div class="col-md-7 col-lg-8 col-sm-5 col-xs-3">
                                 <nav class="main__menu__nav hidden-xs hidden-sm">
                                     <ul class="main__menu">
-                                        <li class="drop"><a href="index.html">Home</a></li>
+                                        <li class="drop"><a href="index.jsp">Home</a></li>
                                         <li class="drop"><a href="#">women</a>
                                             <ul class="dropdown mega_dropdown">
                                                 <!-- Start Single Mega MEnu -->
-                                                <li><a class="mega__title" href="product-grid.html">Shop Pages</a>
+                                                <li><a class="mega__title" href="product-grid.jsp">Shop Pages</a>
                                                     <ul class="mega__item">
-                                                        <li><a href="product-grid.html">Product Grid</a></li>
-                                                        <li><a href="cart.html">cart</a></li>
-                                                        <li><a href="checkout.html">checkout</a></li>
-                                                        <li><a href="wishlist.html">wishlist</a></li>
+                                                        <li><a href="product-grid.jsp">Product Grid</a></li>
+                                                        <li><a href="cart.jsp">cart</a></li>
+                                                        <li><a href="checkout.jsp">checkout</a></li>
+                                                        <li><a href="wishlist.jsp">wishlist</a></li>
                                                     </ul>
                                                 </li>
                                                 <!-- End Single Mega MEnu -->
                                                 <!-- Start Single Mega MEnu -->
-                                                <li><a class="mega__title" href="product-grid.html">Variable Product</a>
+                                                <li><a class="mega__title" href="product-grid.jsp">Variable Product</a>
                                                     <ul class="mega__item">
                                                         <li><a href="#">Category</a></li>
                                                         <li><a href="#">My Account</a></li>
-                                                        <li><a href="wishlist.html">Wishlist</a></li>
-                                                        <li><a href="cart.html">Shopping Cart</a></li>
-                                                        <li><a href="checkout.html">Checkout</a></li>
+                                                        <li><a href="wishlist.jsp">Wishlist</a></li>
+                                                        <li><a href="cart.jsp">Shopping Cart</a></li>
+                                                        <li><a href="checkout.jsp">Checkout</a></li>
                                                     </ul>
                                                 </li>
                                                 <!-- End Single Mega MEnu -->
                                                 <!-- Start Single Mega MEnu -->
-                                                <li><a class="mega__title" href="product-grid.html">Product Types</a>
+                                                <li><a class="mega__title" href="product-grid.jsp">Product Types</a>
                                                     <ul class="mega__item">
                                                         <li><a href="#">Simple Product</a></li>
                                                         <li><a href="#">Variable Product</a></li>
@@ -99,28 +99,28 @@
                                         <li class="drop"><a href="#">men</a>
                                             <ul class="dropdown mega_dropdown">
                                                 <!-- Start Single Mega MEnu -->
-                                                <li><a class="mega__title" href="product-grid.html">Shop Pages</a>
+                                                <li><a class="mega__title" href="product-grid.jsp">Shop Pages</a>
                                                     <ul class="mega__item">
-                                                        <li><a href="product-grid.html">Product Grid</a></li>
-                                                        <li><a href="cart.html">cart</a></li>
-                                                        <li><a href="checkout.html">checkout</a></li>
-                                                        <li><a href="wishlist.html">wishlist</a></li>
+                                                        <li><a href="product-grid.jsp">Product Grid</a></li>
+                                                        <li><a href="cart.jsp">cart</a></li>
+                                                        <li><a href="checkout.jsp">checkout</a></li>
+                                                        <li><a href="wishlist.jsp">wishlist</a></li>
                                                     </ul>
                                                 </li>
                                                 <!-- End Single Mega MEnu -->
                                                 <!-- Start Single Mega MEnu -->
-                                                <li><a class="mega__title" href="product-grid.html">Variable Product</a>
+                                                <li><a class="mega__title" href="product-grid.jsp">Variable Product</a>
                                                     <ul class="mega__item">
                                                         <li><a href="#">Category</a></li>
                                                         <li><a href="#">My Account</a></li>
-                                                        <li><a href="wishlist.html">Wishlist</a></li>
-                                                        <li><a href="cart.html">Shopping Cart</a></li>
-                                                        <li><a href="checkout.html">Checkout</a></li>
+                                                        <li><a href="wishlist.jsp">Wishlist</a></li>
+                                                        <li><a href="cart.jsp">Shopping Cart</a></li>
+                                                        <li><a href="checkout.jsp">Checkout</a></li>
                                                     </ul>
                                                 </li>
                                                 <!-- End Single Mega MEnu -->
                                                 <!-- Start Single Mega MEnu -->
-                                                <li><a class="mega__title" href="product-grid.html">Product Types</a>
+                                                <li><a class="mega__title" href="product-grid.jsp">Product Types</a>
                                                     <ul class="mega__item">
                                                         <li><a href="#">Simple Product</a></li>
                                                         <li><a href="#">Variable Product</a></li>
@@ -134,41 +134,41 @@
                                         </li>
                                         <li class="drop"><a href="#">Product</a>
                                             <ul class="dropdown">
-                                                <li><a href="product-grid.html">Product Grid</a></li>
-                                                <li><a href="product-details.html">Product Details</a></li>
+                                                <li><a href="product-grid.jsp">Product Grid</a></li>
+                                                <li><a href="product-details.jsp">Product Details</a></li>
                                             </ul>
                                         </li>
 
                                         <li class="drop"><a href="#">Pages</a>
                                             <ul class="dropdown">
     
-                                                <li><a href="cart.html">Cart page</a></li>
-                                                <li><a href="checkout.html">checkout</a></li>
-                                                <li><a href="contact.html">contact</a></li>
-                                                <li><a href="product-grid.html">product grid</a></li>
-                                                <li><a href="product-details.html">product details</a></li>
-                                                <li><a href="wishlist.html">wishlist</a></li>
+                                                <li><a href="cart.jsp">Cart page</a></li>
+                                                <li><a href="checkout.jsp">checkout</a></li>
+                                                <li><a href="contact.jsp">contact</a></li>
+                                                <li><a href="product-grid.jsp">product grid</a></li>
+                                                <li><a href="product-details.jsp">product details</a></li>
+                                                <li><a href="wishlist.jsp">wishlist</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">contact</a></li>
+                                        <li><a href="contact.jsp">contact</a></li>
                                     </ul>
                                 </nav>
 
                                 <div class="mobile-menu clearfix visible-xs visible-sm">
                                     <nav id="mobile_dropdown">
                                         <ul>
-                                            <li><a href="index.html">Home</a></li>
+                                            <li><a href="index.jsp">Home</a></li>
                                             <li><a href="#">pages</a>
                                                 <ul>
-                                                    <li><a href="cart.html">Cart page</a></li>
-                                                    <li><a href="checkout.html">checkout</a></li>
-                                                    <li><a href="contact.html">contact</a></li>
-                                                    <li><a href="product-grid.html">product grid</a></li>
-                                                    <li><a href="product-details.html">product details</a></li>
-                                                    <li><a href="wishlist.html">wishlist</a></li>
+                                                    <li><a href="cart.jsp">Cart page</a></li>
+                                                    <li><a href="checkout.jsp">checkout</a></li>
+                                                    <li><a href="contact.jsp">contact</a></li>
+                                                    <li><a href="product-grid.jsp">product grid</a></li>
+                                                    <li><a href="product-details.jsp">product details</a></li>
+                                                    <li><a href="wishlist.jsp">wishlist</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="contact.html">contact</a></li>
+                                            <li><a href="contact.jsp">contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
